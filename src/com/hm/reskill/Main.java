@@ -18,7 +18,7 @@ public class Main {
 
         String res = getShortestString(movies);
 
-        System.out.println("Shortes movie title is: " + res);
+        System.out.println("Shortest movie title is: " + res);
         System.out.println("***********");
 
         List<Movie> newList = getSortedList(movies);
